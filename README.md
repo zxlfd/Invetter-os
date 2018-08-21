@@ -15,6 +15,6 @@ In Proceedings of the 25th ACM Conference on Computer and Communications Securit
 
 We thank the many contributors to this project and our paper, including Zhiyun Qian in uc riverside, and other collaborators.
 
-We welcome any question about this project, please contact [Lei Zhang](leixzhangzl@gmail.com) or [Zhemin Yang](https://yangzhemin.github.io/)
+We welcome any question about this project, please contact [Lei Zhang](https://zzzxxxlll.github.io/) or [Zhemin Yang](https://yangzhemin.github.io/)
 
 Edited by Zhemin Yang, Aug 21, 2018
